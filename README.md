@@ -1,8 +1,29 @@
-----
 Tabla 1
+
+| Campo         | Valor |
+|---------------|-------|
+| **Empresa**   | Agencia de Viajes (Fly Alberto’s) |
+| **Audiencia** | Joven entre (21-45 años) |
+| **Mensaje**   | Queremos transmitir a los usuarios lo que representa nuestra empresa y su marca. Queremos enseñar todo lo que podemos ofrecer y nuestras ideas. |
+| **Plataforma**| Tik-Tok |
+| **Duración**  | 1:40 min - 1:50 min |
+| **Diseño**    | Video de presentación de la empresa y la marca |
+| **IAs**       | Chat-GPT, Fliki, Pictory, Canva |
+| **Guión**     | **ESCENA 1:** Amanecer sobre un paisaje rústico (montañas, bosques o campos abiertos) con el logotipo de Fly Alberto’s apareciendo gradualmente.<br><br>**VOZ EN OFF:** "Bienvenidos a Fly Alberto’s, donde la aventura y la naturaleza se funden en una experiencia única."<br><br>**ESCENA 2:** Imágenes dinámicas de ríos, valles y montañas / Primeros planos de flora y fauna vibrante / Personas explorando senderos rústicos.<br><br>**VOZ EN OFF:** "Descubre destinos rústicos donde cada rincón vibra con la armonía de la tierra y el espíritu humano."<br><br>**ESCENA 3:** Grupos disfrutando de caminatas / Encuentros con la fauna local / Vistas panorámicas de pueblos con encanto.<br><br>**VOZ EN OFF:** "Sumérgete en la esencia de la naturaleza y vive aventuras inolvidables."<br><br>**ESCENA 4:** Logotipo de Fly Alberto’s sobre un atardecer cálido, con el mensaje en pantalla: ‘Explora. Conecta. Vive la Naturaleza.’<br><br>**VOZ EN OFF:** "Únete a nosotros y transforma tu forma de viajar. Fly Alberto’s te espera." |
 
 ---
 Tabla 2
+
+| Campo         | Valor |
+|---------------|-------|
+| **Empresa**   | Agencia de Viajes (Fly Alberto’s) |
+| **Audiencia** | Joven entre (21-45 años) |
+| **Mensaje**   | Queremos transmitir a los usuarios las experiencias y sentimientos de alegría y aventura que pueden conseguir con nuestros viajes |
+| **Plataforma**| Instagram |
+| **Duración**  | 30 s - 40 s |
+| **Diseño**    | Estilo collage, diferentes videos cortos de las aventuras, paisajes, actividades y destinos, que ofrece la empresa con sus viajes |
+| **IAs**       | Chat-GPT, Fliki, Pictory, Canva |
+| **Guión**     | **ESCENA 1:** Hombre caminando en un bosque<br><br>**VOZ EN OFF:** "Vive la aventura, descubre el mundo."<br><br>**ESCENA 2:** Collage de senderistas en montañas, cascadas y lagos / Vista aérea de un bosque al atardecer<br><br>**VOZ EN OFF:** "Descubre un mundo donde la aventura y la naturaleza se encuentran."<br><br>**ESCENA 3:** Mujer caminando por un bosque / Vista en primera persona de una calle rústica<br><br>**VOZ EN OFF:** "Recorre caminos llenos de historia y sumérgete en paisajes mágicos."<br><br>**ESCENA 4:** Vista aérea de una ciudad / Festividad nativa de América / Persona en aladelta<br><br>**VOZ EN OFF:** "Colores vibrantes, culturas fascinantes y momentos inolvidables."<br><br>**ESCENA 5:** Persona en un barranco alto / Mujer levantando los brazos<br><br>**VOZ EN OFF:** "Es hora de explorar. Es hora de viajar." |
 
 ---
 
